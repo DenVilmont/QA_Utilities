@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+  <head>
+    <title><span class="i18n" data-i18n="appName"></span></title>
+    <link rel="stylesheet" type="text/css" href="/styles/main.css">
+    <script type="module" src="/scripts/main.js" defer></script>
+  </head>
+  <body>
+    <h1><span class="i18n" data-i18n="appName"></span></h1>
+    <div class="divider"></div>
+    <div class="tabs">
+      <span class="tab-header i18n" id="tab1" data-i18n="utils"></span>
+      <span class="tab-header i18n" id="tab2" data-i18n="notes"></span>
+      <!--<span class="tab-header i18n" id="tab3" data-i18n="tasks"></span>-->
+    </div>
+    <div class="divider"></div>
+    <div class="tabs">
+      <!-----------------------------------------TAB 1------------------->
+      <div class="tab-content tab1">
+        <div class="generarRandomText">
+          <h3><span class="i18n" data-i18n="generateTextLine"></span></h3>
+          <div class="flex-height-container">
+            <input id="textLength" class="flex-height" type="text" data-i18n-placeholder="textLength" />
+            <button id="generateText" data-i18n-title="generate">&#x2b6e;</button>
+          </div>
+          <div class="flex-height-container">
+            <input id="generatedText" class="flex-height" type="text" />
+            <button class="copyTextButton" data-target="generatedText" data-i18n-title="copy">&#x1f5d0;</button>
+            <button class="clearTextButton" data-target="generatedText textLength" data-i18n-title="clear">&#x26cc;</button>
+          </div>
+        </div>
+        <div class="divider"></div>
+
+
+        <div>
+          <h3>
+            <span class="i18n" data-i18n="lengthOfTheText"></span>
+            <span id="textLengthResult"></span>
+          </h3>
+          <div class="flex-height-container">
+            <input id="inputTextLength" class="flex-height" type="text" />
+            <button class="clearTextButton" data-target="inputTextLength" data-i18n-title="clear">&#x26cc;</button>
+          </div>
+          <div class="divider"></div>
+        </div>
+
+        <div>
+          <h3><span class="i18n" data-i18n="GenerateHEXsimbolAndCopy"></span></h3>
+          <div class="flex-height-container">
+            <input id="hexCharText" class="flex-height" type="text" placeholder="0x1a"/>
+            <button class="copyTextButton" data-target="hexCharText" data-i18n-title="copy">&#x1f5d0;</button>
+            <button class="clearTextButton" data-target="hexCharText" data-i18n-title="clear">&#x26cc;</button>
+          </div>
+        </div>
+        <div class="divider"></div>
+      </div>
+      <!-----------------------------------------TAB 2------------------->
+      <div class="tab-content tab2">
+        <h3 class="notepad-header">
+          <span class="i18n" data-i18n="notepad"></span>
+          <button class="clearTextButton" data-target="notebook" data-i18n-title="clear">&#x26cc;</button>
+        </h3>
+        <textarea id="notebook" rows="10" cols="30" data-i18n-placeholder="WriteYourNotesHere"></textarea>
+        <h3><span class="i18n" data-i18n="SaveAndCopyValues"></span></h3>
+        <div class="flex-height-container">
+          <input id="valueInput" class="flex-height" type="text" data-i18n-placeholder="EnterValueToSave">
+          <button id="saveValueButton" class="i18n" data-i18n="save"></button>
+        </div>
+        <div id="savedValues" class="list-items"></div>
+      </div>
+      <!-----------------------------------------TAB 3 https://www.w3schools.com/howto/howto_js_todolist.asp ------------------->
+
+      <!--
+      <div class="tab-content tab3">        
+        <h3>To Do List</h3>
+        <div class="flex-height-container">
+          <input id="taskInput" class="flex-height" type="text" data-i18n-placeholder="task">
+          <button id="addNewTaskBtn" class="i18n" data-i18n-title="save" data-i18n="save"></button>
+        </div>
+        <ul class="list-items" id="todolist">
+          <li class="list-item">Item 1</li>
+        </ul>
+      </div>
+      -->
+
+    </div>
+
+	  <div class="version">
+      <span id="version"></span>
+    </div>
+    <div class="language-selector">
+      <select id="languageSelect">
+        <option value="en">English</option>
+        <option value="es">Spanish</option>
+      </select>
+    </div>
+  </body>
+</html>

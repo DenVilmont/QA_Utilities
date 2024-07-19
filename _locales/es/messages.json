@@ -1,0 +1,59 @@
+{
+  "appName": {
+    "message": "Utilidades de QA"
+  },
+  "generateTextLine": {
+    "message": "Generar línea de texto"
+  },
+  "generate": {
+    "message": "Generar"
+  },
+  "copy": {
+    "message": "Copiar"
+  },
+  "clear": {
+    "message": "Vaciar"
+  },
+  "delete": {
+    "message": "Borrar"
+  },
+  "textLength": {
+    "message": "Longitud del texto"
+  },
+  "GenerateHEXsimbolAndCopy": {
+    "message": "Generar símbolo HEX y copiar al portapapeles"
+  },
+  "EnterValidPositiveNumber":{
+    "message": "Rellene un número positivo válido"
+  },
+  "utils":{
+    "message": "Utils"
+  },
+  "notes":{
+    "message": "Notas"
+  },
+  "WriteYourNotesHere":{
+    "message": "Escribe aquí tus notas..."
+  },
+  "EnterValueToSave":{
+    "message": "Rellena algo para guardar..."
+  },
+  "save":{
+    "message": "Guardar"
+  },
+  "SaveAndCopyValues":{
+    "message": "Guardar Valores"
+  },
+  "notepad":{
+    "message": "Block de notas"
+  },
+  "tasks":{
+    "message": "Tareas"
+  },
+  "task":{
+    "message": "Tarea"
+  },
+  "lengthOfTheText":{
+    "message": "Longitud del texto"
+  }
+}
