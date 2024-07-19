@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "QA Utilities",
-    "version": "0.1.3.0",
+    "version": "0.1.3.1",
     "description": "QA Utilities",
     "default_locale": "en",
     "background": {
