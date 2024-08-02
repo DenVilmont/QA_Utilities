@@ -1,0 +1,59 @@
+{
+    "EnterValidPositiveNumber": {
+        "message": "请输入有效的正数"
+    },
+    "EnterValueToSave": {
+        "message": "输入要保存的值"
+    },
+    "GenerateHEXsimbolAndCopy": {
+        "message": "生成HEX符号并复制到剪贴板"
+    },
+    "SaveAndCopyValues": {
+        "message": "保存并复制值"
+    },
+    "WriteYourNotesHere": {
+        "message": "在这里写下你的笔记..."
+    },
+    "appName": {
+        "message": "QA工具"
+    },
+    "clear": {
+        "message": "清除"
+    },
+    "copy": {
+        "message": "复制"
+    },
+    "delete": {
+        "message": "删除"
+    },
+    "generate": {
+        "message": "生成"
+    },
+    "generateTextLine": {
+        "message": "生成文本行"
+    },
+    "lengthOfTheText": {
+        "message": "文本长度"
+    },
+    "notepad": {
+        "message": "记事本"
+    },
+    "notes": {
+        "message": "笔记"
+    },
+    "save": {
+        "message": "保存"
+    },
+    "task": {
+        "message": "任务"
+    },
+    "tasks": {
+        "message": "任务"
+    },
+    "textLength": {
+        "message": "文本长度"
+    },
+    "utils": {
+        "message": "工具"
+    }
+}

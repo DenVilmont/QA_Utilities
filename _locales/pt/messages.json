@@ -1,0 +1,60 @@
+
+{
+    "EnterValidPositiveNumber": {
+        "message": "Por favor, insira um número positivo válido"
+    },
+    "EnterValueToSave": {
+        "message": "Digite qualquer coisa para salvar"
+    },
+    "GenerateHEXsimbolAndCopy": {
+        "message": "Gerar símbolo HEX e copiar para a área de transferência"
+    },
+    "SaveAndCopyValues": {
+        "message": "Salvar e copiar valores"
+    },
+    "WriteYourNotesHere": {
+        "message": "Escreva suas notas aqui..."
+    },
+    "appName": {
+        "message": "Utilitários de QA"
+    },
+    "clear": {
+        "message": "Limpar"
+    },
+    "copy": {
+        "message": "Copiar"
+    },
+    "delete": {
+        "message": "Excluir"
+    },
+    "generate": {
+        "message": "Gerar"
+    },
+    "generateTextLine": {
+        "message": "Gerar linha de texto"
+    },
+    "lengthOfTheText": {
+        "message": "Comprimento do texto"
+    },
+    "notepad": {
+        "message": "Bloco de notas"
+    },
+    "notes": {
+        "message": "Notas"
+    },
+    "save": {
+        "message": "Salvar"
+    },
+    "task": {
+        "message": "Tarefa"
+    },
+    "tasks": {
+        "message": "Tarefas"
+    },
+    "textLength": {
+        "message": "Comprimento do texto"
+    },
+    "utils": {
+        "message": "Utilitários"
+    }
+}

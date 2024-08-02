@@ -27,5 +27,7 @@ export function countTheLengthOfTheText(){
     const textLength = document.getElementById('inputTextLength').value.length;
     if (textLength > 0) {
         document.getElementById('textLengthResult').textContent = ' (' + textLength + ')';
+    } else {
+        document.getElementById('textLengthResult').textContent = '';
     }
 }

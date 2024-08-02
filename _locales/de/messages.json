@@ -1,0 +1,59 @@
+{
+    "EnterValidPositiveNumber": {
+        "message": "Bitte geben Sie eine gültige positive Zahl ein"
+    },
+    "EnterValueToSave": {
+        "message": "Geben Sie etwas ein, um zu speichern"
+    },
+    "GenerateHEXsimbolAndCopy": {
+        "message": "HEX-Symbol generieren und in die Zwischenablage kopieren"
+    },
+    "SaveAndCopyValues": {
+        "message": "Werte speichern und kopieren"
+    },
+    "WriteYourNotesHere": {
+        "message": "Schreiben Sie hier Ihre Notizen..."
+    },
+    "appName": {
+        "message": "QA-Dienstprogramme"
+    },
+    "clear": {
+        "message": "Löschen"
+    },
+    "copy": {
+        "message": "Kopieren"
+    },
+    "messagelete": {
+        "message": "Löschen"
+    },
+    "generate": {
+        "message": "Generieren"
+    },
+    "generateTextLine": {
+        "message": "Textzeile generieren"
+    },
+    "lengthOfTheText": {
+        "message": "Länge messages Textes"
+    },
+    "notepad": {
+        "message": "Notizblock"
+    },
+    "notes": {
+        "message": "Notizen"
+    },
+    "save": {
+        "message": "Speichern"
+    },
+    "task": {
+        "message": "Aufgabe"
+    },
+    "tasks": {
+        "message": "Aufgaben"
+    },
+    "textLength": {
+        "message": "Textlänge"
+    },
+    "utils": {
+        "message": "Dienstprogramme"
+    }
+}

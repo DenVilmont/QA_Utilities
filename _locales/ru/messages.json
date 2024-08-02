@@ -1,0 +1,59 @@
+{
+    "EnterValidPositiveNumber": {
+        "message": "Пожалуйста, введите допустимое положительное число"
+    },
+    "EnterValueToSave": {
+        "message": "Введите что-нибудь для сохранения"
+    },
+    "GenerateHEXsimbolAndCopy": {
+        "message": "Создать HEX-символ и скопировать в буфер обмена"
+    },
+    "SaveAndCopyValues": {
+        "message": "Сохранить и скопировать значения"
+    },
+    "WriteYourNotesHere": {
+        "message": "Напишите свои заметки здесь..."
+    },
+    "appName": {
+        "message": "QA Утилиты"
+    },
+    "clear": {
+        "message": "Очистить"
+    },
+    "copy": {
+        "message": "Копировать"
+    },
+    "delete": {
+        "message": "Удалить"
+    },
+    "generate": {
+        "message": "Создать"
+    },
+    "generateTextLine": {
+        "message": "Создать строку текста"
+    },
+    "lengthOfTheText": {
+        "message": "Длина текста"
+    },
+    "notepad": {
+        "message": "Блокнот"
+    },
+    "notes": {
+        "message": "Заметки"
+    },
+    "save": {
+        "message": "Сохранить"
+    },
+    "task": {
+        "message": "Задача"
+    },
+    "tasks": {
+        "message": "Задачи"
+    },
+    "textLength": {
+        "message": "Длина текста"
+    },
+    "utils": {
+        "message": "Утилиты"
+    }
+}

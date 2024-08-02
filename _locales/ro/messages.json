@@ -1,0 +1,59 @@
+{
+    "EnterValidPositiveNumber": {
+        "message": "Intmessageduceți un număr pozitiv valid"
+    },
+    "EnterValueToSave": {
+        "message": "Intmessageduceți orice pentru a salva"
+    },
+    "GenerateHEXsimbolAndCopy": {
+        "message": "Generați simbolul HEX și copiați în clipboard"
+    },
+    "SaveAndCopyValues": {
+        "message": "Salvați și copiați valorile"
+    },
+    "WriteYourNotesHere": {
+        "message": "Scrieți notele dvs. aici..."
+    },
+    "appName": {
+        "message": "Utilitare QA"
+    },
+    "clear": {
+        "message": "Goli"
+    },
+    "copy": {
+        "message": "Copiază"
+    },
+    "delete": {
+        "message": "Șterge"
+    },
+    "generate": {
+        "message": "Generează"
+    },
+    "generateTextLine": {
+        "message": "Generează linie de text"
+    },
+    "lengthOfTheText": {
+        "message": "Lungimea textului"
+    },
+    "notepad": {
+        "message": "Blocnotes"
+    },
+    "notes": {
+        "message": "Note"
+    },
+    "save": {
+        "message": "Salvează"
+    },
+    "task": {
+        "message": "Sarcină"
+    },
+    "tasks": {
+        "message": "Sarcini"
+    },
+    "textLength": {
+        "message": "Lungimea textului"
+    },
+    "utils": {
+        "message": "Utilitare"
+    }
+}

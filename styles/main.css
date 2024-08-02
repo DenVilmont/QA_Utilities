@@ -145,14 +145,10 @@ button:active {
     min-height: 100px;
     resize: vertical;
 }
-.flex-height-container {
+.flex-height-container, .saved-value-container {
     display: flex;
     align-items: center;
-    max-width: 600px;
-}
-.saved-value-container {
-    display: flex;
-    align-items: center;
+    max-width: 700px;
 }
 
 .saved-value {
